@@ -8,5 +8,8 @@ public class Main {
         System.out.println(new Date());
         System.out.println("Git repo is added");
         System.out.println("Added one more files");
+        System.out.println("------------------------");
+        Student student = new Student();
+        student.sayHello();
     }
 }
